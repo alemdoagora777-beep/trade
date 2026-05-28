@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Sniper Dashboard",
+  "description": "Painel de controle híbrido para o robô Sniper V2 de criptomoedas com suporte à visualização mobile, monitoramento de banca e controle de ordens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
